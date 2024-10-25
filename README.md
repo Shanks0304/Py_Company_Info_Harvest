@@ -1,7 +1,7 @@
 # 🚀 CompanyInfoHarvester
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--powered-brightgreen)](https://openai.com/)
 [![Google Custom Search](https://img.shields.io/badge/Google-Custom%20Search%20API-4285F4)](https://developers.google.com/custom-search)
 
