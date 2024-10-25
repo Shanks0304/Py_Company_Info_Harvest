@@ -74,9 +74,10 @@ CompanyInfoHarvester is an intelligent automation tool that leverages the power 
 ### Google Custom Search Tool
 
 python:agent/tools.py
-startLine: 13
-endLine: 38
 
+startLine: 13
+
+endLine: 38
 
 This code snippet demonstrates the implementation of the Google Custom Search tool. It's a crucial component that fetches relevant information about companies using the Google Custom Search API. Key features include:
 
@@ -87,14 +88,20 @@ This code snippet demonstrates the implementation of the Google Custom Search to
 
 ### ReAct Agent Prompts
 
-
-### ReAct Agent Prompts
-
 python:agent/prompts.py
+
 startLine: 3
+
 endLine: 38
 
-These prompts guide the ReAct agent in analyzing search results and extracting relevant company information.
+These prompts are essential for guiding the ReAct agent in analyzing search results and extracting relevant company information. Notable aspects include:
+
+- Use of `PromptTemplate` for structured input
+- Detailed instructions for information extraction and formatting
+- Emphasis on providing reasoning for the extracted information
+- JSON output format for easy integration with other parts of the system
+
+These code highlights showcase the core functionality of the Company_Info_Harvester, demonstrating how it leverages external APIs and AI-powered analysis to extract and structure company information efficiently.
 
 ## 🤝 Contributing
 
